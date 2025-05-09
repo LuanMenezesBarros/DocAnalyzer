@@ -28,7 +28,6 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Contato</h4>
             <ul className="space-y-2 text-blue-200">
               <li>0800 728 2891</li>
-              <li>contato@sestsenat.org.br</li>
               <li>Atendimento: Seg-Sex, 8h-18h</li>
             </ul>
           </div>
